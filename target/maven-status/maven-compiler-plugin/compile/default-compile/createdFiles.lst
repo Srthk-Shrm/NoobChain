@@ -1,0 +1,9 @@
+com\noobchain\NoobChain.class
+com\noobchain\api\BlockchainController.class
+com\noobchain\TransactionOutput.class
+com\noobchain\Block.class
+com\noobchain\Wallet.class
+com\noobchain\Transaction.class
+com\noobchain\NoobChainApplication.class
+com\noobchain\TransactionInput.class
+com\noobchain\StringUtil.class
